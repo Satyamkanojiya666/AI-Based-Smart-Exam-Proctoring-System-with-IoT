@@ -1,7 +1,7 @@
 # ─────────────────────────────────────────────────────────────────────────────
 #  AI Exam Proctoring System — Elite Edition
 #  Requirements File
-#  GitHub: https://github.com/YasirShaikh03
+#  GitHub: https://github.com/Satyamkanojiya666
 # ─────────────────────────────────────────────────────────────────────────────
 
 # Core Computer Vision
