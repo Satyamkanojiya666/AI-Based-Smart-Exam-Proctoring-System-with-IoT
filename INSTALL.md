@@ -1,7 +1,7 @@
 # 📦 Installation Guide — AI Exam Proctoring System
 
 > Complete setup instructions for Windows, macOS, and Linux.
-> GitHub: https://github.com/YasirShaikh03
+> GitHub: https://github.com/Satyamkanojiya666
 
 ---
 
@@ -249,4 +249,4 @@ print("✅ All dependencies installed successfully!")
 
 ---
 
-*For issues or contributions, visit: https://github.com/YasirShaikh03*
+*For issues or contributions, visit: https://github.com/Satyamkanojiya666*
