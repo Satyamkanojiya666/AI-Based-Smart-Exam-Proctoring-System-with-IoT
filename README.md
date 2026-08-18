@@ -248,5 +248,5 @@ MIT License — free to use, modify, and distribute with attribution.
 ---
 
 <div align="center">
-Made with ❤️ by <a href="https://github.com/YasirShaikh03">Yasir Shaikh</a>
+Made with ❤️ by <a href="https://github.com/YasirShaikh03">Satyam Kanojiya</a>
 </div>
