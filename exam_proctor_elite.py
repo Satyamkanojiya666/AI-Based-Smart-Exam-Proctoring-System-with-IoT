@@ -30,10 +30,9 @@
 """
 
 # ── Project metadata ──────────────────────────────────────────────────────────
-__author__  = "Yasir Shaikh"
-__github__  = "https://github.com/YasirShaikh03"
+__author__  = "Satyam Kanojiya"
+__github__  = "https://github.com/Satyamkanojiya666"
 __version__ = "2.0.0-elite"
-__license__ = "MIT"
 # ─────────────────────────────────────────────────────────────────────────────
 
 import cv2
